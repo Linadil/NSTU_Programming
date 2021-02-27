@@ -1,2 +1,3 @@
 # NSTU_Programming
-how r u?
+- how r u?
+- good, I think
